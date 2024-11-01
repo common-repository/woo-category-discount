@@ -1,0 +1,44 @@
+#wildprog_disc_cat.wc-metaboxes-wrapper .expand-close {
+    float: right;
+    line-height: 28px;
+}
+
+#wildprog_disc_cat.wc-metaboxes-wrapper table td{
+    width: 45%;
+}
+
+#wildprog_disc_cat.wc-metaboxes-wrapper .wc-metabox table td {
+    padding: 0 20px 1em 0 !important;
+}
+
+#wildprog_disc_cat .wcd-product-add-cat-desc {
+    margin-top: 10px;
+}
+
+#wildprog_disc_cat.wc-metaboxes-wrapper table td label {
+    font-weight: bold;
+}
+
+.wc-metaboxes-wrapper .wc-metabox table td label.wild-prog-disc-roles-label,
+.wc-metaboxes-wrapper .wc-metabox table td label.wild-prog-disc-days-label {
+    display: inline-block;
+}
+
+.wild-prog-form-field-easy-select {
+    float: right;
+}
+
+.wcd-product-add-cat-desc {
+    background-color: #6b6be8;
+    color: #fff;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid blue;
+}
+
+.wcd-product-add-cat-desc a {
+    color: #fff;
+    font-weight: bold;
+    text-decoration: none;
+}

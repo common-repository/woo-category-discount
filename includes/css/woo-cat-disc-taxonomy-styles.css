@@ -1,0 +1,13 @@
+div.term-slug-wrap, div.term-description-wrap,
+tr.term-slug-wrap, tr.term-description-wrap {
+    display: none;
+}
+
+.woo-cat-disc-role, .woo-cat-disc-sel-disc-type,
+.woo-cat-disc-day {
+    width: 100%;
+}
+
+.wcd-cat-disc-role, .wcd-cat-disc-day, .wcd-cat-disc-sel-disc-type {
+    width: 95%;
+}
